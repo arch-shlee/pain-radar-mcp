@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "pain-radar": {
+      "command": "uv",
+      "args": ["--directory", "/home/shlee/git/pain-radar-mcp", "run", "pain-radar-mcp"]
+    }
+  }
+}
